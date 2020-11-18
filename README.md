@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋, I'm [Emre!](https://emrebilal.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emrebilal21)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://emrebilal.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/emrebilall)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=Instagram&logoColor=white)](https://instagram.com/emreebilall)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/emrebilal)
+[![Outlook](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:emre_bilal21@hotmail.com)
 
 <!--
 **emrebilal/emrebilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
