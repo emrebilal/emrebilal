@@ -6,6 +6,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/emrebilal)
 [![Outlook](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:emre_bilal21@hotmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **emrebilal/emrebilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
