@@ -5,7 +5,7 @@
 [![Outlook Badge](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:emre_bilal21@hotmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebilal" alt="emrebilal" /></p>
 <!--
 **emrebilal/emrebilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
