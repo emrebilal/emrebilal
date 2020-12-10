@@ -6,6 +6,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebilal" alt="emrebilal" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=true" />
+</details>
+
 <!--
 **emrebilal/emrebilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
