@@ -1,4 +1,6 @@
 ### Hi there, I'm Emre 👋
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46905124/101986460-fa7e1b80-3c9e-11eb-9459-78ced2ef539f.gif?raw=true" width="500" height="320" />
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://emrebilal.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emrebilal21)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=Instagram&logoColor=white)](https://instagram.com/emreebilall)
