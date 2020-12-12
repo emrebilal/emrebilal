@@ -6,7 +6,6 @@
 
 [![](https://img.shields.io/twitter/follow/emrebilall?style=social)](https://www.twitter.com/emrebilall)
 [![](https://img.shields.io/github/followers/emrebilal?style=social)](https://www.github.com/emrebilal)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
 
 ![](https://komarev.com/ghpvc/?username=emrebilal)
