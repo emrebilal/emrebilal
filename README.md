@@ -1,9 +1,9 @@
 ### Hi there, I'm Emre 👋
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46905124/101988066-a4ae7100-3ca8-11eb-8401-48e6b0cf31dd.gif?raw=true" width="450" height="210" />
-
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://emrebilal.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emrebilal21)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=Instagram&logoColor=white)](https://instagram.com/emreebilall)
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46905124/101988066-a4ae7100-3ca8-11eb-8401-48e6b0cf31dd.gif?raw=true" width="450" height="210" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
 
