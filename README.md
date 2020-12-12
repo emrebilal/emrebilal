@@ -3,13 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emrebilal21)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=Instagram&logoColor=white)](https://instagram.com/emreebilall)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
+
+![](https://komarev.com/ghpvc/?username=emrebilal)
 [![](https://img.shields.io/twitter/follow/emrebilall?style=social)](https://www.twitter.com/emrebilall)
 [![](https://img.shields.io/github/followers/emrebilal?style=social)](https://www.github.com/emrebilal)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/46905124/101986460-fa7e1b80-3c9e-11eb-9459-78ced2ef539f.gif?raw=true" width="500" height="320" />
-![](https://komarev.com/ghpvc/?username=emrebilal)
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=true" />
