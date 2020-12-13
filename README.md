@@ -5,11 +5,12 @@
 
 ![gif](https://user-images.githubusercontent.com/46905124/102014502-5ca25380-3d67-11eb-874a-81a0f75c07d8.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
-
 ![](https://komarev.com/ghpvc/?username=emrebilal)
 [![](https://img.shields.io/twitter/follow/emrebilall?style=social)](https://www.twitter.com/emrebilall)
 [![](https://img.shields.io/github/followers/emrebilal?style=social)](https://www.github.com/emrebilal)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=true" />
