@@ -6,7 +6,7 @@
 ![gif](https://user-images.githubusercontent.com/46905124/102014905-7c3a7b80-3d69-11eb-9f6f-c290d1b8f065.gif)
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=truetheme=dark" />
+  <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=true&theme=dark" />
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
