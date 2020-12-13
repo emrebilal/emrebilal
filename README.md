@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/emrebilal21)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=Instagram&logoColor=white)](https://instagram.com/emreebilall)
 
-![gif](https://user-images.githubusercontent.com/46905124/102014502-5ca25380-3d67-11eb-874a-81a0f75c07d8.gif)
+![gif](https://user-images.githubusercontent.com/46905124/102014905-7c3a7b80-3d69-11eb-9f6f-c290d1b8f065.gif)
 
 ![](https://komarev.com/ghpvc/?username=emrebilal)
 [![](https://img.shields.io/twitter/follow/emrebilall?style=social)](https://www.twitter.com/emrebilall)
