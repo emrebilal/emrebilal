@@ -4,17 +4,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=Instagram&logoColor=white)](https://instagram.com/emreebilall)
 
 ![gif](https://user-images.githubusercontent.com/46905124/102014905-7c3a7b80-3d69-11eb-9f6f-c290d1b8f065.gif)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=truetheme=dark" />
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
 
 ![](https://komarev.com/ghpvc/?username=emrebilal)
 [![](https://img.shields.io/twitter/follow/emrebilall?style=social)](https://www.twitter.com/emrebilall)
 [![](https://img.shields.io/github/followers/emrebilal?style=social)](https://www.github.com/emrebilal)
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=true" />
-</details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
 
 <!--
 **emrebilal/emrebilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
