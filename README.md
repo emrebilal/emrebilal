@@ -9,10 +9,6 @@
   <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=true" />
 </details>
 
-![](https://komarev.com/ghpvc/?username=emrebilal)
-[![](https://img.shields.io/twitter/follow/emrebilall?style=social)](https://www.twitter.com/emrebilall)
-[![](https://img.shields.io/github/followers/emrebilal?style=social)](https://www.github.com/emrebilal)
-
 <!--
 **emrebilal/emrebilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +30,8 @@ Hi 👋, I'm [Emre!](https://emrebilal.github.io)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/emrebilal)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebilal&layout=compact)](https://github.com/emrebilal?tab=repositories)
+
+![](https://komarev.com/ghpvc/?username=emrebilal)
+[![](https://img.shields.io/twitter/follow/emrebilall?style=social)](https://www.twitter.com/emrebilall)
+[![](https://img.shields.io/github/followers/emrebilal?style=social)](https://www.github.com/emrebilal)
 -->
