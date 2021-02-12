@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Emre</h1>
-<h3 align="center">Computer Engineer & Software Developer</h3>
+<h3 align="center">Computer Engineer / Jr. Software Developer</h3>
 
 - 🌱 I’m currently learning **.NET Core, React JS etc.**
 
