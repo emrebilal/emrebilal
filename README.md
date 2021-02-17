@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [Medium](https://medium.com/@emrebilal)
 
-- 💬 Ask me about **C#, .NET, Python, Java**
+- 💬 Ask me about **C#, .NET, Python**
 
 - 📫 How to reach me **emre_bilal21@hotmail.com**
 
