@@ -9,11 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emrebilal21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emrebilal21" height="30" width="40" /></a>
-<a href="https://twitter.com/emrebilall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emrebilall" height="30" width="40" /></a>
-<a href="https://instagram.com/emreebilall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="emreebilall" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15122324" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15122324" height="30" width="40" /></a>
-<a href="https://medium.com/@emrebilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emrebilal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emrebilal21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/linkedin.svg" alt="emrebilal21" height="30" width="40" /></a>
+<a href="https://twitter.com/emrebilall" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/twitter.svg" alt="emrebilall" height="30" width="40" /></a>
+<a href="https://instagram.com/emreebilall" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/instagram.svg" alt="emreebilall" height="30" width="40" /></a>
+<a href="https://medium.com/@emrebilal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/medium.svg" alt="@emrebilal" height="30" width="40" /></a>
 </p>
 
 <details>
