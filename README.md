@@ -1,13 +1,9 @@
 <h1 align="center">Hi there👋, I'm Emre</h1>
 <h3 align="center">Computer Engineer / Jr. Software Developer</h3>
 
-- 🌱 I’m currently learning **.NET Core, React.js etc.**
+- 🌱 I’m currently learning **.NET Core, React.js**
 
 - 👨‍💻 My website [emrebilal.github.io](https://emrebilal.github.io)
-
-- 📝 I write articles on [Medium](https://medium.com/@emrebilal)
-
-- 💬 Ask me about **C#, .NET, Python**
 
 - 📫 How to reach me **emre_bilal21@hotmail.com**
 
