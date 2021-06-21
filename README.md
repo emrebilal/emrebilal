@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Emre</h1>
-<h3 align="center">Computer Engineer | Software Developer</h3>
+<h3 align="center">A Full Stack Software Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **.NET Core, React.js**
 
