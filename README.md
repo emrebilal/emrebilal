@@ -14,8 +14,3 @@
 <a href="https://twitter.com/emrebilall" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/twitter-new.svg" alt="emrebilall" height="30" width="35" /></a>
 <a href="https://medium.com/@emrebilal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/emrebilal/emrebilal/main/assets/medium-m.svg" alt="@emrebilal" height="30" width="35" /></a>
 </p>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Emre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emrebilal&show_icons=true&hide_border=true&theme=dark" />
-</details>
