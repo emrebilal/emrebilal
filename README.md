@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Emre</h1>
-<h3 align="center">A Software Developer from Turkey</h3>
+<h3 align="center">A Software Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **.NET Core, React.js**
+- 🔭 I’m currently working on Full-Stack (.NET Core, React.js) development
 
 - 👨‍💻 My website [emrebilal.github.io](https://emrebilal.github.io)
 
