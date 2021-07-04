@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on Full-Stack (.NET Core, React.js) development
 
-- 👨‍💻 My website [emrebilal.github.io](https://emrebilal.github.io)
-
 - 📫 How to reach me **emre_bilal21@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
