@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Emre</h1>
 
-- 🔭 I’m currently working on Full-Stack (.NET Core, React.js) development
+- 🔭 I’m currently working on Full-Stack (.NET Core, React JS) development
+
+- 🌱 I’m currently learning Go lang
 
 - 📫 How to reach me **emre_bilal21@hotmail.com**
 
