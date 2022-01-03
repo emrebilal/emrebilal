@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Full-Stack (.NET Core, JS&React) development
 
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning Golang
 
 - 📫 How to reach me **emre_bilal21@hotmail.com**
 
