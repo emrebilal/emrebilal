@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Emre</h1>
+<h2>Hi there👋, I'm Emre</h2>
 
 - 🔭 I’m currently working on Full-Stack (.NET Core, JS&React) development
 
