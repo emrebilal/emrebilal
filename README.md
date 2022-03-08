@@ -1,8 +1,8 @@
 <h2>Hi there👋, I'm Emre</h2>
 
-- 🔭 I’m currently working on Full-Stack (.NET Core, JS&React) development
+- 🔭 I’m currently working on Full-Stack (Golang/.NET Core, ReactJs) development
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang and AWS
 
 - 📫 How to reach me **emre_bilal21@hotmail.com**
 
