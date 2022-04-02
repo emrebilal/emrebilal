@@ -1,6 +1,6 @@
 <h2>Hi there👋, I'm Emre</h2>
 
-- 🔭 I’m currently working on Full-Stack (Golang/.NET Core, ReactJs) development
+- 🔭 I’m currently working on Full-Stack (Golang/.NET Core, React) development
 
 - 🌱 I’m currently learning Golang and AWS
 
