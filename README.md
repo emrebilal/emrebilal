@@ -1,6 +1,6 @@
 <h2>Hi there👋, I'm Emre</h2>
 
-- 🔭 I’m currently working on Golang and .NET Core development
+- 🔭 I’m currently working on Golang, .NET Core and React development
 
 - 📫 How to reach me **emre_bilal21@hotmail.com**
 
